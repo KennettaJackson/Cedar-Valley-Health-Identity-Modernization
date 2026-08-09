@@ -1,3 +1,27 @@
+## 🎥 Project Overview
+
+A brief portfolio walkthrough of Phase 2, demonstrating the Cedar Valley Health Joiner, Mover, and Leaver (JML) identity lifecycle process in Microsoft Entra ID.
+
+The walkthrough provides a quick overview of:
+
+- 🏥 Cedar Valley Health's clinic acquisition scenario
+- 👤 Joiner – New employee provisioning
+- 🔄 Mover – Role and access changes
+- 🚪 Leaver – Employee offboarding
+- 🔐 Role-Based Access Control (RBAC) and Least Privilege
+- 🔎 Microsoft Entra audit log verification
+- 🎫 HR-to-IAM ticket workflow
+- 📁 Project documentation and supporting evidence
+
+📹 **Portfolio Walkthrough:**  
+[Watch the Phase 2 JML Walkthrough](PASTE-YOUR-LOOM-LINK-HERE)
+
+> **Note:** This video provides a brief overview of the project. Detailed implementation documentation, HR JML tickets, and supporting screenshots are available throughout the repository.
+
+---
+
+
+
 # 🔐 Phase 2 – Identity Lifecycle Management (JML)
 
 **Project:** Cedar Valley Health – Microsoft Entra ID IAM Lab
