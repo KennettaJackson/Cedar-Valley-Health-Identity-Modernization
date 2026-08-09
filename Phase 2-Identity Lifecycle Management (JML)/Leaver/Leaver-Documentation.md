@@ -1,66 +1,114 @@
-## Leaver
+# Phase 2 – Leaver Documentation
 
-### Leaver Scenario – David King
+## Overview
+
+The Leaver process represents the secure offboarding of an employee who is no longer employed by Cedar Valley Health.
+
+For this phase, David King was used to simulate an employee termination.
+
+The objective was to disable the identity, remove access, revoke active sessions, verify the account could no longer sign in, and review the administrative activity through Microsoft Entra audit logs.
+
+---
+
+## Business Scenario
 
 David King was used to simulate an employee leaving Cedar Valley Health.
 
-### HR Request
+The IAM team received an HR termination request requiring the employee's access to be removed.
 
-HR submitted a termination request requiring IAM to remove David’s access.
+The request was documented as:
 
-### IAM Actions
+**JML-005 – Employee Termination: David King**
+
+The HR request is documented in:
+
+`../HR-Tickets/HR-JML-Tickets.md`
+
+---
+
+## HR Request
+
+HR submitted a termination request requiring IAM to immediately remove David King's access to company resources.
+
+The request was treated as a high-priority lifecycle event.
+
+---
+
+## IAM Actions
+
+The following actions were performed:
 
 1. Disabled the account.
-2. Removed group memberships/access.
+2. Removed access and group memberships.
 3. Revoked active sessions.
-4. Confirmed the account was disabled.
-5. Attempted/verified sign-in was no longer permitted.
-6. Reviewed audit logs for the administrative changes.
+4. Confirmed the account status.
+5. Verified that sign-in was no longer permitted.
+6. Reviewed Microsoft Entra audit logs.
 7. Documented the outcome.
 
-### Security Objective
+---
 
-Prevent a former employee from continuing to access Cedar Valley Health resources after termination.
+## Security Rationale
 
-### Verification
+Disabling the account prevents future authentication attempts.
 
-The account was confirmed as disabled and the user was unable to sign in.
+However, disabling an account alone does not necessarily address existing authenticated sessions.
 
-Audit logs were reviewed to provide evidence that the offboarding actions occurred.
+For this reason, active sessions were also revoked.
+
+Group memberships and other assigned access were removed to reduce the possibility of the former employee retaining access through previously assigned permissions.
 
 ---
 
-# JML Security Principles
+## Verification
 
-## Least Privilege
+The following were verified during the offboarding process:
 
-Users should receive only the access required for their current responsibilities.
-
-## Role-Based Access Control
-
-Security groups were used to organize access according to job roles and departments.
-
-## Access Removal
-
-Mover events require reviewing and removing obsolete access rather than simply adding new permissions.
-
-## Secure Offboarding
-
-Leaver processing requires more than disabling the account. Active sessions and access memberships should also be addressed.
-
-## Auditability
-
-Administrative actions were reviewed through Entra ID audit logs to provide evidence of lifecycle changes.
+- David King's account was disabled.
+- Access and group memberships were removed.
+- Active sessions were revoked.
+- The account could no longer be used to sign in.
+- Administrative changes appeared in Microsoft Entra audit logs.
 
 ---
 
-# Evidence
+## Audit Verification
 
-Screenshots for each scenario are stored under:
+Microsoft Entra audit logs were reviewed to provide evidence of the administrative changes performed during the offboarding process.
 
-```text
-/Screenshots/Joiner/
+The audit review helped verify that the requested lifecycle actions were completed.
 
-/Screenshots/Mover/
+---
 
-/Screenshots/Leaver/
+## Leaver Workflow
+
+The simulated Leaver workflow was:
+
+1. HR submits a termination request.
+2. IAM reviews the request.
+3. The user account is disabled.
+4. Existing access is removed.
+5. Group memberships are removed.
+6. Active sessions are revoked.
+7. Account status is verified.
+8. Sign-in is tested/verified as no longer permitted.
+9. Audit activity is reviewed.
+10. The ticket outcome is documented.
+
+---
+
+## Evidence
+
+Supporting screenshots are stored under:
+
+`../Screenshots/Leaver/`
+
+The screenshots provide evidence of the account disablement, access removal, session revocation, and verification performed during the lab.
+
+---
+
+## Result
+
+David King's account was successfully offboarded from the Cedar Valley Health Microsoft Entra ID environment.
+
+The Leaver process demonstrated that secure offboarding requires more than disabling an account. Access, group memberships, active sessions, and verification should also be addressed.
