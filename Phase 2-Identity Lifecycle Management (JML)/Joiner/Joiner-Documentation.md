@@ -45,4 +45,13 @@ The following role-based security groups were created:
 The new clinic workforce was successfully represented within the CVH Entra ID environment using role-based security groups.
 
 ---
+# Evidence
 
+Screenshots for each scenario are stored under:
+
+```text
+/Screenshots/Joiner/
+
+/Screenshots/Mover/
+
+/Screenshots/Leaver/
