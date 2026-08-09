@@ -14,7 +14,7 @@ The walkthrough provides a quick overview of:
 - 📁 Project documentation and supporting evidence
 
 📹 **Portfolio Walkthrough:**  
-[Watch the Phase 2 JML Walkthrough](PASTE-YOUR-LOOM-LINK-HERE)
+[Watch the Phase 2 JML Walkthrough](https://www.loom.com/share/2f6497472ad04b70aef4a38a35ad9b9e)
 
 > **Note:** This video provides a brief overview of the project. Detailed implementation documentation, HR JML tickets, and supporting screenshots are available throughout the repository.
 
