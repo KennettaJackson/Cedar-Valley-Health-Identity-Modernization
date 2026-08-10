@@ -78,6 +78,27 @@ Detailed technical documentation:
 
 ---
 
+## 🔐 Phase 2 – Identity Lifecycle Management (JML)
+
+Implemented:
+
+- Joiner, Mover, Leaver (JML) lifecycle management
+- Bulk user provisioning using CSV
+- Role-based security groups
+- Employee role and department changes
+- Access modification and removal
+- Employee offboarding
+- Active session revocation
+- Microsoft Entra audit log verification
+- HR-to-IAM ticket workflow
+- Identity lifecycle documentation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 2 - Identity Lifecycle Management (JML)](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%202-Identity%20Lifecycle%20Management%20%28JML%29)
+
+---
+
 # 🛠 Technologies Demonstrated
 
 - Microsoft Entra ID
