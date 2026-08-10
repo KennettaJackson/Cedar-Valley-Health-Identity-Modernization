@@ -47,7 +47,7 @@ The goal is to demonstrate how organizations mature their identity infrastructur
 | Phase | Description | Status |
 |---|---|---|
 | Phase 1 | Cloud Identity Foundation & Zero Trust | ✅ Complete |
-| Phase 2 | Joiner, Mover, Leaver (JML) | 🔄 Planned |
+| Phase 2 | Joiner, Mover, Leaver (JML) | ✅ Complete |
 | Phase 3 | Identity Governance & Access Reviews | 🔄 Planned |
 | Phase 4 | IAM Operations & Troubleshooting | 🔄 Planned |
 | Phase 5 | Conditional Access | 🔄 Planned |
