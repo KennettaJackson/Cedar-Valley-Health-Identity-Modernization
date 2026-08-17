@@ -98,6 +98,28 @@ Detailed technical documentation:
 ➡️ See: [Phase 2 - Identity Lifecycle Management (JML)](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%202-Identity%20Lifecycle%20Management%20%28JML%29)
 
 ---
+## 🔎 Phase 3 – Identity Governance & Access Reviews
+
+Implemented:
+
+- Microsoft Entra Identity Governance
+- Quarterly Microsoft Entra Access Reviews
+- Access approval, denial, and remediation
+- Least Privilege and stale access identification
+- Employee and administrative access reviews
+- Group membership governance
+- Access remediation and verification
+- Mover and Leaver lifecycle exception handling
+- HR-to-IAM authorization workflow
+- Microsoft Entra audit log verification
+- IAM access review documentation
+- Technical evidence and audit documentation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 3 - Identity Governance & Access Reviews](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%203-%20Identity%20Governance%20%26%20Access%20Reviews)
+
+---
 
 # 🛠 Technologies Demonstrated
 
