@@ -23,6 +23,29 @@ The main question for this phase is:
 
 ---
 
+## 🎥 Project Walkthrough
+
+> 🚧 **Video Coming Soon**
+>
+> The 4–5 minute Loom walkthrough has not yet been recorded. It will be added here after completion.
+>
+> The walkthrough will provide a quick overview of the Phase 3 implementation, including:
+>
+> - Microsoft Entra Identity Governance
+> - Access Reviews
+> - Access remediation
+> - IAM administrative access review
+> - Least Privilege
+> - Lifecycle exception scenarios
+> - Audit verification
+> - Project documentation and evidence
+
+> **Note:** The video provides a high-level overview of the completed lab. Detailed documentation, access review results, screenshots, and audit evidence are available throughout this repository.
+
+---
+
+
+
 ## 🎯 Objectives
 
 In this phase, I will practice:
