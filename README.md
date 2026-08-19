@@ -121,6 +121,28 @@ Detailed technical documentation:
 
 ---
 
+## 🧰 Phase 4 – IAM Operations & Troubleshooting
+
+Implemented:
+
+* Microsoft Entra ID user and group administration
+* Sign-in and authentication troubleshooting
+* MFA and Temporary Access Pass (TAP) recovery
+* Enterprise Application configuration and assignment
+* Group-based application access
+* Authorization access troubleshooting
+* Authentication vs. authorization analysis
+* Access remediation and verification
+* Microsoft Entra sign-in and audit log investigation
+* IAM root-cause analysis and troubleshooting
+* Technical evidence and audit documentation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 4 - IAM Operations & Troubleshooting](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%204-IAM%20Operations%20%26%20Troubleshooting)
+
+---
+
 # 🛠 Technologies Demonstrated
 
 - Microsoft Entra ID
