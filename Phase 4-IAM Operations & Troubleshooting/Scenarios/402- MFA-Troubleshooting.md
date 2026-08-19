@@ -64,4 +64,4 @@ I reviewed the Microsoft Entra audit logs and confirmed the administrative activ
 - Temporary Access Pass created
 - Replacement Microsoft Authenticator registered
 - Successful MFA verification
-- Audit log evidence****
+- Audit log evidence
