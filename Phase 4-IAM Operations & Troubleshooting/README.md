@@ -16,11 +16,9 @@ The troubleshooting workflow used throughout the phase was:
 
 ## 🎥 Short Overview & Video Walkthrough
 
-A short 3–5 minute video walkthrough will be added to this project after the lab is recorded.
+A short 3–5 minute video walkthrough is included below, providing a high-level overview of Phase 4 rather than a step-by-step demonstration of every action performed in Microsoft Entra ID.
 
-The video provides a high-level overview of Phase 4 rather than a step-by-step demonstration of every action performed in Entra ID.
-
-The walkthrough will briefly cover:
+The walkthrough briefly covers:
 
 - The purpose and background of Phase 4
 - **Ticket 401:** Danielle Carter's sign-in failure and the `50126` authentication error
@@ -30,7 +28,7 @@ The walkthrough will briefly cover:
 - The difference between authentication and authorization
 - Key lessons learned from the troubleshooting exercises
 
-🎬 **Video Walkthrough:** *Coming soon*
+🎬 **Video Walkthrough:**https://www.loom.com/share/8718fcbb1e364dcc8ecbff6609cba642
 
 ---
 
