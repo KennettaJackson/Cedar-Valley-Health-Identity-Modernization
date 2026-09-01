@@ -50,7 +50,7 @@ The goal is to demonstrate how organizations mature their identity infrastructur
 | Phase 2 | Joiner, Mover, Leaver (JML) | ✅ Complete |
 | Phase 3 | Identity Governance & Access Reviews | ✅ Complete |
 | Phase 4 | IAM Operations & Troubleshooting | ✅ Complete  |
-| Phase 5 | Conditional Access | 🔄 Planned |
+| Phase 5 | Conditional Access | ✅ Complete |
 | Phase 6 | SAML Single Sign-On (SSO) | 🔄 Planned |
 | Phase 7 | Hybrid Identity | 🔄 Planned |
 | Phase 8 | PowerShell Automation | 🔄 Planned |
@@ -140,6 +140,31 @@ Implemented:
 Detailed technical documentation:
 
 ➡️ See: [Phase 4 - IAM Operations & Troubleshooting](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%204-IAM%20Operations%20%26%20Troubleshooting)
+
+---
+## 🛡️ Phase 5 – Conditional Access Policy
+
+Implemented:
+
+- Microsoft Entra Conditional Access policy creation
+- MFA enforcement and validation
+- Application/resource access blocking
+- Azure Portal access control
+- Location-based Conditional Access configuration
+- Named location configuration
+- Report-only policy testing
+- Conditional Access policy enforcement
+- Break-glass account exclusions
+- Microsoft Entra sign-in log analysis
+- Conditional Access result analysis
+- Access-denial validation
+- Conditional Access troubleshooting
+- Security and access-control documentation
+- Technical evidence and audit documentation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 5 - Conditional Access](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%205-Conditional%20Access)
 
 ---
 
