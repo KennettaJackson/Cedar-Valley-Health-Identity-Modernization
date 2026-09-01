@@ -111,11 +111,20 @@ The location-based policy was successfully configured but was not live validated
 
 ---
 
-## 🎥 Video Overview
+## 🎥 Quick Overview
 
-**Coming soon**
+Want a quick walkthrough of the project?
 
-A short video walkthrough will be added covering the Conditional Access configuration, testing, and results from Phase 5.
+https://www.loom.com/share/ce332e6ed0844e71bed24d4388aa94fa
+
+This short video provides an overview of the Phase 5 Conditional Access work, including:
+
+- 🔑 MFA enforcement
+- 🚫 Azure Portal access blocking
+- 📊 Microsoft Entra sign-in log analysis
+- 📍 Location-based Conditional Access configuration
+- 🛡️ Break-glass account considerations
+- 🧠 Lessons learned from testing Conditional Access
 
 ---
 
