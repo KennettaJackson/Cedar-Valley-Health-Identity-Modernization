@@ -5,7 +5,7 @@
 ### 🎥 Video Overview
 
 > **Watch the short walkthrough:**
-> 🎬 **[Loom Video — SAML SSO Configuration & Testing](coming soon)**
+> 🎬 **[Loom Video — SAML SSO Configuration & Testing](video coming soon)**
 
 This short walkthrough demonstrates the CVH SAML SSO configuration, user testing, the initial access issue encountered with Mia Turner, and the remediation process.
 
