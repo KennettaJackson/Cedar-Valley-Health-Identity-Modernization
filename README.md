@@ -52,8 +52,8 @@ The goal is to demonstrate how organizations mature their identity infrastructur
 | Phase 4 | IAM Operations & Troubleshooting | ✅ Complete  |
 | Phase 5 | Conditional Access | ✅ Complete |
 | Phase 6 | SAML Single Sign-On (SSO) | ✅ Complete |
-| Phase 7 | Privileged Identity Management | ✅ Complete |
-| Phase 8 | Hybrid Identity + PowerShell | ✅ Complete |
+| Phase 7 | Privileged Identity Management | 🔄 Planned |
+| Phase 8 | Hybrid Identity + PowerShell | 🔄 Planned |
 | Phase 9 | Identity Investigation Capstone| 🔄 Planned |
 ---
 
