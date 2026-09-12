@@ -132,9 +132,19 @@ Synchronization Configuration
        ▼
 Microsoft Entra ID
 ```
+---
 
+## Phase 8: Cloud Sync Deployment and Troubleshooting
+
+The Microsoft Entra provisioning agent and on-premises Active Directory environment were successfully configured, including gMSA authentication and directory connectivity.
+
+Testing identified an external TCP 443 connectivity failure to the required Azure Service Bus endpoint. Because the restriction existed beyond the Windows VM and modification of the household network was not permitted, synchronization could not reach steady state.
+
+Given this environmental limitation, Microsoft Entra Connect was used to complete the synchronization objective instead. While Cloud Sync could not be finalized, the troubleshooting processfrom DNS and network validation through agent and configuration review still provided valuable hands-on experience diagnosing hybrid identity connectivity issues.
 
 The project ultimately transitioned to Microsoft Entra Connect, which successfully completed the synchronization requirements.
+
+---
 
 ## 🎥 Video Coming Soon
 
