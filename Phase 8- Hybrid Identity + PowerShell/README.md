@@ -41,6 +41,18 @@ This project demonstrates the implementation and validation of a hybrid identity
 
 ---
 
+## ⚡ PowerShell Learning
+
+PowerShell was used throughout this lab for **administration, validation, and testing**.
+
+I am still developing my PowerShell skills and consider myself a **beginner**. This lab gave me practical experience running scripts, observing their behavior, and understanding how PowerShell can interact with Active Directory and identity administration tasks.
+
+This was especially valuable for understanding how scripting and automation are commonly used in **enterprise IT environments**.
+
+> 💡 **Learning Note:** This project helped me move beyond simply reading about PowerShell and gain hands-on experience seeing how scripts execute and affect a lab environment.
+
+---
+
 ## 🏗️ Hybrid Identity Flow
 
 ```text
