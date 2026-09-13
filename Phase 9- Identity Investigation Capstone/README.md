@@ -15,7 +15,7 @@ The goal was not to create a fake breach, but to practice how an IAM analyst wou
 
 **Video walkthrough.**
 
-https://www.loom.com/share/88906966a36a46fc94f228ee1a57b0ae
+https://www.loom.com/share/1561e965754e41089089427a3ff2d229
 
 The walkthrough will demonstrate the investigation process, including the sign-in investigation, authentication details, Conditional Access evaluation, audit-log review, and final determination.
 
