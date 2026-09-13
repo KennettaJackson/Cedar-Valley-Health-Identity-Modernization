@@ -280,16 +280,23 @@ Detailed technical documentation:
 
 ---
 
-# 🛠 Technologies Demonstrated
+# 🛠️ Technologies Demonstrated
 
-- Microsoft Entra ID
-- Microsoft Authenticator
-- Role-Based Access Control (RBAC)
-- Multi-Factor Authentication (MFA)
-- Zero Trust Security Model
-- Cloud Identity Administration
-- Identity Documentation
-- GitHub
+* **Microsoft Entra ID & Identity Governance**
+* **IAM & Identity Lifecycle Management (JML)**
+* **MFA, Microsoft Authenticator & Conditional Access**
+* **RBAC, Access Reviews & Least Privilege**
+* **Privileged Identity Management (PIM) & Just-in-Time Access**
+* **SAML 2.0 & Single Sign-On (SSO)**
+* **Active Directory & Hybrid Identity**
+* **Microsoft Entra Connect & Password Hash Synchronization**
+* **PowerShell & Identity Administration**
+* **Sign-In & Audit Log Investigation**
+* **Authentication, Authorization & Access Troubleshooting**
+* **Identity Security & Incident Investigation**
+* **Zero Trust Security**
+* **Technical Documentation, Evidence Collection & GitHub**
+
 
 ---
 
