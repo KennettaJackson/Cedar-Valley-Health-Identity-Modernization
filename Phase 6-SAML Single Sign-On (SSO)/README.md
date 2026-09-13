@@ -5,9 +5,11 @@
 ### 🎥 Video Overview
 
 > **Watch the short walkthrough:**
-> 🎬 **[Loom Video — SAML SSO Configuration & Testing](video coming soon)**
 
-This short walkthrough demonstrates the CVH SAML SSO configuration, user testing, the initial access issue encountered with Mia Turner, and the remediation process.
+ **https://www.loom.com/share/cbb8645634d041e19c6d03285d6ce5c7**
+
+This short walkthrough demonstrates the Cedar Valley Health SAML SSO configuration, user testing, the initial access issue encountered with Mia Turner, and the remediation process.
+
 
 ---
 
