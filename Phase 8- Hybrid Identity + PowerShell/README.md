@@ -146,14 +146,4 @@ The project ultimately transitioned to Microsoft Entra Connect, which successful
 
 ---
 
-## 🎥 Video Coming Soon
 
-A short project walkthrough will be added soon, providing a quick overview of:
-
-- 🖥️ Lab environment
-- 🏢 Active Directory configuration
-- 🔄 Microsoft Entra Connect setup
-- 👥 User synchronization
-- ☁️ Final validation in Microsoft Entra ID
-
-🎬 *Walkthrough video coming soon.*
