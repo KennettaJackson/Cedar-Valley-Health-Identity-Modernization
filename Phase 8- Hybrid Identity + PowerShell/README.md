@@ -145,5 +145,28 @@ Given this environmental limitation, Microsoft Entra Connect was used to complet
 The project ultimately transitioned to Microsoft Entra Connect, which successfully completed the synchronization requirements.
 
 ---
+## 📸 Evidence & Documentation
+
+This phase is documentation and evidence focused and does not include a video walkthrough.
+
+The implementation and troubleshooting process is documented through screenshots and supporting documentation maintained in the project repository.
+
+Evidence includes:
+
+* Active Directory configuration
+* Organizational Unit structure
+* Test user creation
+* Microsoft Entra provisioning configuration
+* Microsoft Entra Connect configuration
+* Password Hash Synchronization configuration
+* OU filtering
+* Synchronization results
+* Microsoft Entra user validation
+* PowerShell administration and validation
+* Cloud Sync connectivity troubleshooting
+* DNS and network troubleshooting
+* Final successful synchronization using Microsoft Entra Connect
+
+The screenshots provide visual evidence of the configuration, troubleshooting process, and final synchronization results.
 
 
