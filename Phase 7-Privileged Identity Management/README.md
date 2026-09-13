@@ -4,7 +4,7 @@
 
 ### 🎥 Video Overview
 
-> 🎬 **[Loom Video — PIM Configuration & Just-in-Time Privileged Access](video coming soon)**
+>  **https://www.loom.com/share/88906966a36a46fc94f228ee1a57b0ae**
 
 This short walkthrough demonstrates the CVH privileged identity management scenario, including the transition from standing administrative privileges to eligible access, just-in-time role activation, temporary administrative access, and PIM audit validation.
 
