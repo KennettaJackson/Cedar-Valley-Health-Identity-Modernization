@@ -52,9 +52,9 @@ The goal is to demonstrate how organizations mature their identity infrastructur
 | Phase 4 | IAM Operations & Troubleshooting | ✅ Complete  |
 | Phase 5 | Conditional Access | ✅ Complete |
 | Phase 6 | SAML Single Sign-On (SSO) | ✅ Complete |
-| Phase 7 | Privileged Identity Management | 🔄 Planned |
-| Phase 8 | Hybrid Identity + PowerShell | 🔄 Planned |
-| Phase 9 | Identity Investigation Capstone| 🔄 Planned |
+| Phase 7 | Privileged Identity Management | ✅ Complete |
+| Phase 8 | Hybrid Identity + PowerShell | ✅ Complete |
+| Phase 9 | Identity Investigation Capstone| ✅ Complete |
 ---
 
 # ✅ Current Project
@@ -165,6 +165,118 @@ Implemented:
 Detailed technical documentation:
 
 ➡️ See: [Phase 5 - Conditional Access](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%205-Conditional%20Access)
+
+---
+## 🔐 Phase 6 – SAML Single Sign-On (SSO)
+
+Implemented:
+
+* Microsoft Entra enterprise application configuration
+* SAML 2.0 Single Sign-On
+* Identity Provider (IdP) configuration
+* Service Provider (SP) integration
+* Identifier (Entity ID) configuration
+* Reply URL / Assertion Consumer Service configuration
+* Sign-on URL configuration
+* SAML Attributes and Claims
+* SAML signing certificate configuration
+* Enterprise application user assignment
+* SSO authentication testing
+* Authentication vs. authorization troubleshooting
+* Application access remediation
+* Microsoft Entra sign-in log validation
+* Post-remediation access verification
+* SAML configuration documentation
+* Technical evidence and audit documentation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 6 - SAML Single Sign-On (SSO)](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%206-SAML%20Single%20Sign-On%20%28SSO%29)
+
+---
+
+## 🛡️ Phase 7 – Privileged Identity Management (PIM)
+
+Implemented:
+
+* Microsoft Entra Privileged Identity Management (PIM)
+* Standing privileged access assessment
+* User Administrator role management
+* Standing Active to Eligible role transition
+* Just-in-Time (JIT) privileged access
+* Privileged role activation
+* Temporary administrative access
+* Activation justification
+* Privileged access lifecycle management
+* Least Privilege implementation
+* Privileged role expiration
+* PIM assignment validation
+* PIM audit history review
+* Privileged access testing
+* Post-activation role-state verification
+* Privileged access documentation
+* Technical evidence and audit documentation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 7 - Privileged Identity Management](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%207-Privileged%20Identity%20Management)
+
+---
+
+## 🏢 Phase 8 – Hybrid Identity + PowerShell
+
+Implemented:
+
+* Active Directory Domain Services (AD DS)
+* Windows Server 2022 identity environment
+* Organizational Unit (OU) configuration
+* On-premises test user provisioning
+* Microsoft Entra Cloud Sync configuration
+* Microsoft Entra provisioning agent
+* Directory connectivity validation
+* Microsoft Entra Connect implementation
+* Password Hash Synchronization (PHS)
+* OU-based synchronization filtering
+* Active Directory to Microsoft Entra ID synchronization
+* PowerShell administration and validation
+* Hybrid identity troubleshooting
+* Cloud-to-on-premises identity validation
+* Synchronization verification
+* Microsoft Entra user validation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 8 - Hybrid Identity + PowerShell](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%208-%20Hybrid%20Identity%20%2B%20PowerShell)
+
+---
+
+## 🔎 Phase 9 – Security Identity Investigation Capstone
+
+Implemented:
+
+* Microsoft Entra sign-in investigation
+* Suspected account compromise investigation
+* User sign-in baseline analysis
+* IP address and location analysis
+* Browser and operating system comparison
+* Authentication detail analysis
+* Microsoft Authenticator investigation
+* Conditional Access investigation
+* Report-only policy analysis
+* Microsoft Entra audit log investigation
+* Event timeline correlation
+* Evidence-based risk determination
+* Controlled VPN authentication testing
+* Authentication vs. security-event analysis
+* IAM incident-response considerations
+* Account compromise determination
+* Security investigation documentation
+* Technical evidence and audit documentation
+
+Detailed technical documentation:
+
+➡️ See: [Phase 9 - Security Identity Investigation Capstone](https://github.com/KennettaJackson/Cedar-Valley-Health-Identity-Modernization/tree/main/Phase%209-%20Identity%20Investigation%20Capstone)
+
 
 ---
 
