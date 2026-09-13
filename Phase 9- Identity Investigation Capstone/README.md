@@ -19,6 +19,9 @@ https://www.loom.com/share/1561e965754e41089089427a3ff2d229
 
 The walkthrough will demonstrate the investigation process, including the sign-in investigation, authentication details, Conditional Access evaluation, audit-log review, and final determination.
 
+**Note:** This walkthrough was recorded before the project folder was finalized as Phase 9. The current repository identifies this project as Phase 9.
+
+
 ---
 
 ## Scenario
