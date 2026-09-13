@@ -2,14 +2,6 @@
 
 ## 🏥 Cedar Valley Health Identity Modernization
 
-### 🎥 Video Overview
-
->  **https://www.loom.com/share/88906966a36a46fc94f228ee1a57b0ae**
-
-This short walkthrough demonstrates the CVH privileged identity management scenario, including the transition from standing administrative privileges to eligible access, just-in-time role activation, temporary administrative access, and PIM audit validation.
-
----
-
 ## 📋 Overview
 
 This phase demonstrates the implementation of **Microsoft Entra Privileged Identity Management (PIM)** to reduce standing administrative privileges within Cedar Valley Health.
@@ -22,6 +14,13 @@ Two CVH users already held **standing User Administrator privileges** from previ
 As part of the CVH identity modernization effort, their standing administrative access was transitioned to **eligible PIM assignments**.
 
 This allowed both users to retain the ability to perform User Administrator responsibilities while requiring them to activate their privileged role only when administrative access was needed.
+
+---
+### 🎥 Video Overview
+
+>  **https://www.loom.com/share/88906966a36a46fc94f228ee1a57b0ae**
+
+This short walkthrough demonstrates the CVH privileged identity management scenario, including the transition from standing administrative privileges to eligible access, just-in-time role activation, temporary administrative access, and PIM audit validation.
 
 ---
 
