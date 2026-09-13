@@ -1,5 +1,6 @@
 # Phase 8 — Security Identity Investigation Capstone
 
+
 ## Overview
 
 This phase focused on investigating a suspected identity compromise using Microsoft Entra ID.
@@ -7,6 +8,16 @@ This phase focused on investigating a suspected identity compromise using Micros
 The scenario involved an employee reporting an unexpected Microsoft Authenticator prompt. The investigation used normal sign-in activity as a baseline and compared it against a controlled sign-in generated from a different network.
 
 The goal was not to create a fake breach, but to practice how an IAM analyst would investigate unusual authentication activity and make an evidence-based determination.
+
+---
+
+## Video
+
+**Video walkthrough.**
+
+https://www.loom.com/share/88906966a36a46fc94f228ee1a57b0ae
+
+The walkthrough will demonstrate the investigation process, including the sign-in investigation, authentication details, Conditional Access evaluation, audit-log review, and final determination.
 
 ---
 
@@ -120,14 +131,6 @@ The most important part of the investigation was comparing the unusual activity 
 ## Evidence
 
 Screenshots and supporting evidence from the investigation are included with this project.
-
----
-
-## Video
-
-**Video walkthrough coming soon.**
-
-The walkthrough will demonstrate the investigation process, including the sign-in investigation, authentication details, Conditional Access evaluation, audit-log review, and final determination.
 
 ---
 
