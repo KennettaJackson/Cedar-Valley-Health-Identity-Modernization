@@ -2,6 +2,14 @@
 
 ## 🏥 Cedar Valley Health Identity Modernization
 
+## 📋 Overview
+
+This phase demonstrates the implementation and validation of **SAML-based Single Sign-On (SSO)** using Microsoft Entra ID and the SAML Toolkit.
+
+The objective was to configure a SAML enterprise application, assign authorized users, validate successful authentication, and troubleshoot an initial application-access issue.
+
+---
+
 ### 🎥 Video Overview
 
 > **Watch the short walkthrough:**
@@ -10,16 +18,8 @@
 
 This short walkthrough demonstrates the Cedar Valley Health SAML SSO configuration, user testing, the initial access issue encountered with Mia Turner, and the remediation process.
 
-
 ---
 
-## 📋 Overview
-
-This phase demonstrates the implementation and validation of **SAML-based Single Sign-On (SSO)** using Microsoft Entra ID and the SAML Toolkit.
-
-The objective was to configure a SAML enterprise application, assign authorized users, validate successful authentication, and troubleshoot an initial application-access issue.
-
----
 
 ## 🖥️ Environment
 
