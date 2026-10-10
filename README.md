@@ -316,6 +316,6 @@ This portfolio project demonstrates practical IAM skills aligned with real-world
 
 **Kennetta Jackson**
 
-Aspiring Identity & Access Management (IAM) Engineer
+Aspiring Identity & Access Management (IAM) Engineer with interest in security investigations and data protection
 
 Focused on Microsoft Entra ID, Active Directory, Identity Governance, Zero Trust, and enterprise cloud identity solutions.
