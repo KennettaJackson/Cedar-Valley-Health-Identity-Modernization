@@ -55,6 +55,7 @@ The goal is to demonstrate how organizations mature their identity infrastructur
 | Phase 7 | Privileged Identity Management | ✅ Complete |
 | Phase 8 | Hybrid Identity + PowerShell | ✅ Complete |
 | Phase 9 | Identity Investigation Capstone| ✅ Complete |
+| Phase 10 | Data Loss Prevention | In progress |
 ---
 
 # ✅ Current Project
